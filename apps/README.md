@@ -1,2 +1,0 @@
-# playwright-project
-Projeto Linkai
